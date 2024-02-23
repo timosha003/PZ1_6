@@ -1,0 +1,118 @@
+#bookimg{
+    margin-left: 2%;
+    margin-right: 2%;
+    float: left;
+    text-align: right
+}
+#bookLink{
+    margin-top: 2%;
+    margin-left: 70%;
+}
+#mainName{
+    float: left;
+}
+#regLink{
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: right;
+}
+#header{
+    background-color: aquamarine;
+}
+#maindiv{
+    height: 310px;
+}
+#fotter{
+    height: 150px;
+    background-color: rgb(10, 31, 63)
+}
+.footer_text{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.reglink{
+    margin-bottom: 10px;
+}
+#inputName{
+    margin-top: 0px;
+    padding-top: 15px;
+}
+#registrDiv{
+    border:3px solid black;
+    width: 450px;
+    margin-top: 10%;
+    margin-left: 35%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#underRegistrDiv{
+    background-color: aqua;
+    height: 40px;
+}
+#inputPass{
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+h4{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#infoImg{
+    float: left;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+#infoP{
+    float: left;
+}
+#infoDiV{
+    height: 200px;
+}
+#myFB{
+    text-align: right;
+    margin-bottom: 5px;
+    margin-left: 70%;
+}
+#cadetName{
+  text-align: right;
+}
+#name{
+    display: inline;
+ 
+}
+#infoBook{
+   margin-top: 70px;
+   margin-left: 50px;
+}
+hr{
+    color: blue;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#shortDesc{
+    text-align: right;
+    margin-left: 30px;
+}
+#AuthorImg{
+    margin-right: 20px;
+    margin-left: 20px;
+    float: left;
+}
+#aboutAuthor{
+    text-align: right;
+}
+.paragraphName{
+    margin-left: 40px;
+}
+#paragraphname{
+    color: rgb(136, 44, 44);
+    margin-left: 20px;
+}
+#bookBody{
+    background-color: rgb(231, 224, 224);
+}
+#regDiv{
+    text-align: right;
+}
